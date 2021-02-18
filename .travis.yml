@@ -1,8 +1,10 @@
 language: node_js
 
 node_js:
-  - 12
-  - 14
+  - "12"
+  - "14"
+  - "node"
+  - "lts/*"
   
 arch:
   - amd64
